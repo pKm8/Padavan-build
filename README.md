@@ -4,7 +4,7 @@
 ### 遇见的问题 ###
 * Error：Process completed with exit code 2 
 * 即（https://github.com/chongshengB/Padavan-build/issues/295）
- ——————————————————————————————————————————————————————————————
+ —————————————————————————————————————————————————————————————
 * 解决方法： 
 * 到h大那下载新库—— rt-n56u/trunk/user/htop/Makefile 
 *  （https://github.com/hanwckf/rt-n56u/blob/master/trunk/user/htop/htop-3.0.2.tar.gz） 
